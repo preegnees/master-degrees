@@ -1,0 +1,12 @@
+/datasets
+/network
+/runs
+/yolov9
+/выводы*
+/cop.txt
+/Rules.rtf
+/test.py
+/VisDrone.yaml
+/yolov8n.pt
+/coco*
+.DS_Store
